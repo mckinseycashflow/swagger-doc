@@ -83,3 +83,5 @@ Many thanks to Tom Christie & all the contributors who have developed [Django RE
 [license]: https://pypi.python.org/pypi/django-rest-swagger/
 [docs-badge]: https://readthedocs.io/projects/django-rest-swagger/badge/
 [docs]: http://django-rest-swagger.readthedocs.io/
+
+staticfiles issue loader fixed
